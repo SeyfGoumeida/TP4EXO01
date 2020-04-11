@@ -24,7 +24,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="0.33"
-            android:background="#2196F3" />
+            android:background="#2196F3"
+            tools:ignore="NestedWeights" />
 
         <View
             android:id="@+id/view"
